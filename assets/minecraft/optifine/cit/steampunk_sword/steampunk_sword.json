@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "steampunk_sword_texture.png",
+		"1": "steampunk_sword_texture",
 		"2": "steampunk_sword_sprite"
 	},
 	"elements": [
