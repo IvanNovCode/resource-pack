@@ -2,7 +2,7 @@
 
 Resource pack developed by IvanNovR to play on vanilla server minecraft. At the moment the work on it is not stopped.
 
-Items in the texture pack and how to get them: https://sites.google.com/view/ivannovr/RU
+Items in the texture pack and how to get them: https://sites.google.com/view/ivannovr/EN
 
 My social networks:
 YouTube - https://www.youtube.com/channel/UC6f7zRfyef1Dyn4iKu46l9w
