@@ -1,4 +1,4 @@
-# IvanNovR's Resourse Pack!
+# IvanNovR's Resource Pack!
 
 Resource pack developed by IvanNovR to play on vanilla server minecraft. At the moment the work on it is not stopped.
 
